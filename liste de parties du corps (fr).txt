@@ -1,0 +1,220 @@
+Abdomen
+Abducteur
+Adducteur
+Alvéole pulmonaire
+Amygdale
+Annulaire
+Anus
+Apophyse mastoïdienne
+Appendice
+Arcade sourcilière
+Artère
+Astragale
+Auriculaire
+Avant-bras
+Biceps brachial
+Biceps de la cuisse
+Bouche
+Brachial antérieur
+Bras
+Bronche
+Cage thoracique
+Calcanéum
+Canine
+Carpe
+Carpes
+Cavité orbitaire
+Cerveau
+Cheveux
+Cheville
+Cil
+Clavicule
+Clitoris
+Coccyx
+Côlon
+Colonne cervicale
+Colonne dorsale
+Colonne lombaire
+Colonne vertébrale
+Cordes vocales
+Cornée
+Côtes
+Côtes flottantes
+Cou
+Coude
+Couturier
+Crâne
+Cristallin
+Cubital postérieur
+Cubitus
+Cuisse
+Cunéiforme médial
+Cuticule
+Cœur
+Deltoïde
+Dent
+Dent de sagesse
+Derme
+Diaphragme
+Doigt
+Dos
+Droit antérieur
+Droit interne de la cuisse
+Duodénum
+Enclume
+Épaule
+Épiderme
+Estomac
+Étrier
+Extenseur commun des doigts
+Extenseur commun des orteils
+Fausses côtes
+Fémur
+Fesse
+Fléchisseur commun superficiel des doigts
+Foie
+Fosse nasale
+Front
+Frontal
+Genou
+Glabelle
+Gland
+Glotte
+Gorge
+Grand adducteur
+Grand dentelé
+Grand dorsal
+Grand droit de l'abdomen
+Grand fessier
+Grand palmaire
+Grand pectoral
+Grand rond
+Gros orteil
+Hanche
+Humérus
+Incisive
+Index
+Intestin
+Intestin grêle
+Ischio-jambiers
+Ischion
+Jambe
+Jambier antérieur
+Joue
+Jumeaux
+Langue
+Larynx
+Lèvre
+Lobe d’oreille
+Lombaires
+Long péronier latéral
+Long supinateur
+Luette
+Main
+Majeur
+Malaire ou zygomatique
+Mamelon
+Manubrium
+Marteau
+Mastoïde
+Maxillaire inférieur
+Maxillaire supérieur
+Menton
+Métacarpe
+Métatarse
+Molaire
+Mollet
+Moyen fessier
+Muscle
+Nerf
+Nez
+Nombril
+Oblique externe
+Occipital
+Oeil
+Oesophage
+Omoplate
+Ongle
+Orbiculaire des lèvres
+Orbiculaire des paupières
+Oreille
+Orteil
+Os
+Os frontal
+Os iliaque
+Os malaire
+Os naviculaire
+Os pariétal
+Ovaire
+Palais
+Pancréas
+Paupière
+Peau
+Pénis
+Péroné
+Petit orteil
+Petit palmaire
+Petit pectoral
+Petit rond
+Phalange
+Phalangette
+Phalangine
+Pharynx
+Pied
+Poignet
+Poil
+Poitrine
+Pouce
+Poumon
+Prémolaire
+Prépuce
+Prostate
+Pubis
+Pupille
+Quadriceps femoral
+Rachis
+Radius
+Rectum
+Rein
+Rétinaculum
+Rétine
+Rhinopharynx
+Rhomboïde
+Rocher
+Rotule
+Sacrum
+Scrotum
+Sein
+Soléaire
+Sourcil
+Sous-épineux
+Sphénoïde
+Sterno cléido mastoïdien
+Sternum
+Talon
+Tarse
+Tempe
+Temporal
+Tenseur du fascia lata
+Testicule
+Tête
+Téton
+Thorax
+Tibia
+Trachée
+Tragus
+Trapèze
+Triceps brachial
+Tronc
+Tympan
+Urètre
+Utérus
+Vagin
+Vaste externe
+Vaste interne
+Veine
+Ventre
+Vertèbres
+Vésicule biliaire
+Visage
+Zygomatique

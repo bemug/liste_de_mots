@@ -1,0 +1,151 @@
+Abarth
+Ac
+Acura
+Aixam
+Alfa Romeo
+Alke
+Allard
+Alpina
+Alpine
+Alvis
+AMC
+Amilcar
+Ariel
+ARO
+Ashok Leyland
+Aston Martin
+Auburn
+Audi
+Austin
+Austin Healey
+Auto Union
+Autobianchi
+AvtoGAZ
+AvtoVAZ
+Bellier
+Bentley
+BMW
+Bolloré
+Bugatti
+Buick
+Cadillac
+Casalini
+Caterham
+Chatenet
+Chausson
+Chenard et Walcker
+Chevrolet
+Chrysler
+Citroën
+Dacia
+Daewoo
+Daihatsu
+Datsun
+De Dion-Bouton
+De Tomaso
+Delage
+Delahaye
+DeLorean
+Dodge
+Donkervoort
+DS
+Dué
+Exagon
+Excalibur
+Facel Vega
+Ferrari
+FIAT
+Fisker
+Ford
+Ford Mustang
+Fuso
+GAZ
+Ginetta
+GMC
+Grecav
+Gumpert
+Hommell
+Honda
+Horch
+Hummer
+Hyundai
+Infiniti
+Innocenti
+Isuzu
+Iveco
+Jaguar
+JDM Simpa
+Jeep
+Kia
+Koenigsegg
+KTM
+Lada
+Lamborghini
+Lancia
+Land Rover
+Lexus
+Ligier
+Lincoln
+Lotus
+Maserati
+Matra
+Maybach
+Mazda
+McLaren
+Mega
+Mercedes-Benz
+MG
+Mia electric
+Mini
+Mitsubishi
+Mitsuoka
+Morgan
+Morris
+Nash
+Neckar
+Nissan
+Noble
+NSU
+Oldsmobile
+Opel
+Packard
+Pagani
+Panhard
+Panoz
+Panther
+Peugeot
+PGO
+Plymouth
+Pontiac
+Porsche
+Radical
+Renault
+Riley
+Rolls-Royce
+Rover
+Saab
+Saleen
+Santana
+Seat
+Secma
+Shelby
+Simca
+Skoda
+Smart
+SsangYong
+Studebaker
+Subaru
+Suzuki
+Talbot
+Tazzari
+Tesla Motors
+Toyota
+Tvr
+Ultima
+VAZ
+Vector
+Venturi
+Volkswagen
+Volvo
+Wiesmann
+Zenvo

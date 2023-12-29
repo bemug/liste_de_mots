@@ -1,0 +1,201 @@
+
+Agacer, agacher, agachier, agasser : pie
+Appeler : merle
+Babiller : canari, corneille, geai, grive, merle, moineau, oiseau, perroquet
+Bavarder : pie
+Boubouler : hibou
+Brailler : paon
+Braire : manchot, pingouin
+Brourir : perdrix
+Bubuler : hibou
+Butir : butor
+Cacaber : caille, perdrix, pintade
+Cacarder : canard, jars, oie
+Cageoler : geai
+Cagnarder : jars, oie
+Cagneter : poule
+Cajacter : geai
+Cajoler : geai, pie
+Cancaner : canard, volailles
+Canqueter : canard
+Caqueter : poule, volailles
+Caracouler : pigeon, ramier, tourterelle
+Carcailler : caille
+Causer : perroquet, pie
+Chanter : alouette, coq, fauvette, merle, oiseau, rossignol
+Chouler : chouette
+Chucheter : moineau
+Chuchoter : moineau
+Chuinter : chouette
+Claqueter : cigogne, poule avant la ponte, grue
+Cloquer : poule
+Clousser : poule
+Cocailler : poule
+Cocarder : geai
+Coclorer : poule
+Codéquer : poule
+Concouréger : palombe, pigeon
+Coqueliner : coq
+Coqueriquer : coq
+Corailler : corbeau
+Corbiner : corneille
+Couaquer : corbeau, poule
+Coucasser : poule
+Coucouanner : bécasse
+Coucouler : coucou
+Coucouer : coucou
+Courcailler : caille
+Crailler : corbeau, corneille
+Craquer : cigogne, corbeau, grue, perroquet
+Craqueter : cigogne, grue
+Crételer : poule après la ponte
+Criailler : corneille, faisan, hirondelle, jars, oie, paon, perdrix, perroquet, pintade
+Crier : œdicnème, oie
+Croailler : corbeau
+Croasser : corbeau
+Crouler : bécasse, bécassine
+Croûter : bécasse
+Dodeldirer : coq de bruyère
+Drenser : cygne
+Drensiter : cygne
+Flûter : merle
+Frigotter : pinson
+Friguloter : geai
+Fringoler : geai
+Fringoter : geai, pinson
+Frouer : hibou
+Gajoler : geai
+Garruler : geai
+Gazouiller : hirondelle, oiseau
+Gémir : colombe, tourterelle
+Glapir : aigle, épervier, faisan, grue
+Glatir : aigle
+Glottorer : cigogne
+Glouglouter : dindon
+Glousser : caille, dindon, gélinotte, oie, perdrix, poule
+Grailler : corbeau, corneille
+Gringotter : oiseau, rossignol, serin
+Grisoler : alouette
+Hioquer : chouette
+Hôler : chouette
+Huer : chouette, héron, hibou
+Hululer  : chouette, hibou
+Huir : faucon, milan
+Jaboter : manchot, oiseau, perruche, pigeon
+Jacasser : geai, perruche, pic, pie
+Jargonner : jars, oie
+Jaser : geai, merle, perroquet, pie
+Lamenter : chouette, cygne
+Margoter, margotter, margauder, margauter : caille
+Miauler : buse, épervier, hibou, orfraie
+Nasiller : canard
+Paonner : paon
+Parler : mainate, perroquet
+Pépier : moineau, oiseau, poussin
+Piailler : faisan, geai, moineau, oiseau, perroquet, poussin
+Pialer : épervier
+Piauler : albatros, buse, dindon, oiseau, pintade, poulet, poussin, vanneau
+Piauter : buse
+Picasser : pic vert
+Piper : épervier, oiseau
+Pirouitter : perdrix
+Pisoter : étourneau
+Pituiter : caille
+Pleupleuter : pic vert
+Pleurer : goéland
+Pupuler : huppe
+Puputer : huppe
+Quirritter : rossignol
+Railler : goéland
+Ramager : hirondelle, oiseau, pinson, serin
+Rappeler : perdrix
+Réclamer : faucon, perdrix
+Rossignoler : rossignol
+Roucouler : colombe, pigeon, ramier, tourterelle
+Siffler : courlis, cygne, loriot, merle, oie, perroquet, perruche, pinson
+Tirailler : épervier
+Tirelirer : alouette
+Titiner : mésange
+Triduler : hirondelle
+Triller : alouette, rossignol, serin
+Trisser : hirondelle
+Trompeter : aigle, cygne, grue, oie
+Truffler : sarcelle
+Truisotter : hirondelle
+Tutuber : hibou
+Turluter : alouette, oiseau, Pipit des arbres, Pipit farlouse
+Ululer : chouette, hibou
+Zinzibuler : mésange, roitelet
+zinzinuler : fauvette, mésange
+
+-
+
+Aigle : glapit, glatit, trompette
+Albatros : piaule
+Alouette : chante, grisolle, tirelire, trille, turlute
+Bécasse : coucouanne, croule, croûte
+Bécassine : croule
+Buse : miaule, piaule, piaute
+Butor : butit
+Caille : cacabe, carcaille, courcaille, margaude, margotte, pituite
+Canard : cancane, canquette, nasille
+Chouette : choule, chuinte, hioque, hôle, hue, hulule, lamente
+Cigogne : claquette, craque, craquette, glottore
+Colombe : gémit, roucoule
+Coq : chante, coqueline, coquerique
+Coq de bruyère : dodeldire
+Corbeau : coraille, couaque, craille, croaille, croasse, graille
+Corneille : babille, corbine, craille, criaille, graille
+Coucou : coucoue, coucoule
+Courlis : siffle
+Cygne : drense, drensite, lamente, siffle, trompette
+Dindon : glouglote, glougloute, glousse, piaule
+Épervier : glapit, miaule, piale, pipe, tiraille
+Étourneau : pisote
+Faisan : criaille, glapit, piaille
+Faucon : huit, réclame
+Fauvette : chante, zinzinule
+Geai : cageole, cajacte, cajole, cocarde, frigulote, fringole, fringote, gajole, garrule, jacasse, jase
+Gélinotte : glousse
+Goéland : pleure, raille
+Grive : babille
+Grue : claquette, craque, craquette, glapit, trompette
+Héron : hue
+Hibou : bouboule, bubule, froue, hue, miaule, tutube, hulule
+Hirondelle : gazouille, ramage, tridule, trisse, truisotte
+Hulotte : hôle, hue, hulule, lamente
+Huppe : pupule, pupute
+Jars : cagnarde, cacarde, criaille, jargonne
+Loriot : siffle
+Mainate : parle
+Manchot : brait, jabote
+Merle : appelle, babille, chante, ﬂûte, jase, siffle
+Mésange : titine, zinzibule, zinzinule
+Milan : huit
+Moineau : chuchète, chuchote, pépie, piaille
+Oie : cacarde, cagnarde, criaille, glousse, jargonne, siffle
+Oiseau : babille, chante, gazouille, jabote, pépie, piaille, piaule, pipe, ramage
+Orfraie : miaule
+Œdicnème : crie
+Palombe : caracoule, concourège, jabote, roucoule
+Paon : braille, criaille, paonne
+Perdrix : brourit, cacabe, glousse, pirouitte, rappelle, réclame
+Perroquet : cause, craque, jase, parle, piaille, siffle
+Perruche : jabote, jacasse, siffle
+Pic vert : jacasse, picasse, pleupleute
+Pie : agace, bavarde, cajole, cause, jacasse, jase
+Pigeon : caracoule, concourège, jabote, roucoule
+Pingouin : brait
+Pinson : frigotte, fringote, ramage, siffle
+Pintade : cacabe, criaille
+Pipit des arbres : turlute
+Pipit farlouse : turlute
+Poule : cagnette, caquette, claquette, cloque, clousse, cocaille, coclore, codèque, couaque, coucasse, crételle, glousse
+Poulet : piaille, piaule
+Poussin : pépie, piaille, piaule
+Ramier : caracoule, concourège, roucoule
+Roitelet : zinzibule
+Rossignol : chante, gringotte, quirritte, rossignole, trille
+Sarcelle : truffle
+Serin : gringotte, ramage, trille
+Tourterelle : caracoule, gémit, roucoule

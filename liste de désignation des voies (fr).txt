@@ -1,0 +1,68 @@
+Allée
+Ancien chemin
+Ancienne place
+Ancienne route
+Ancienne voie
+Anse
+Autoroute
+Avenue
+Berge
+Boulevard
+Bretelle
+Carrefour
+Chaussée
+Chemin
+Cité
+Clos
+Cour
+Cours
+Cul-de-Sac
+Côte
+Degré
+Descente
+Digue
+Drève
+Escalier
+Escoussière
+Esplanade
+Gaffe
+Giratoire
+Grand'rue
+Grand-boulevard
+Grand-parvis
+Grand-place
+Grand-route
+Grand-rue
+Grand-voie
+Impasse
+Jardin
+Liaison
+Longue-rue
+Mail
+Montée
+Nouveau chemin
+Nouvelle rue
+Nouvelle voie
+Parvis
+Passage
+Passerelle
+Place
+Placette
+Pont
+Promenade
+Quai
+Rampe
+Rang
+Rond-point
+Route
+Rue
+Ruelle
+Résidence
+Sente
+Sentier
+Square
+Traboule
+Traverse
+Venelle
+Villa
+Voie

@@ -1,0 +1,13 @@
+cirrus homogenitus (8000 m)
+cirrocumulus (7500 - 10000 m)
+cirrus (6000 - 12000 m)
+cirrostratus (5000 - 9000 m)
+stratocumulus (3000 - 1400 m)
+altocumulus (2000 - 6000 m)
+altostratus (2000 - 5000 m)
+cumulonimbus ( 600 - 17 000 m)
+cumulus (300 - 1600 m)
+nimbostratus (0 - 3000 m)
+stratus (0 a 500 m)
+mammatus
+pyrocumulonimbus
